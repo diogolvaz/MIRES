@@ -4,7 +4,7 @@ Finally, MIRES supports a form of client-side recovery in the mobile device to a
 
 ![alt text](https://github.com/diogolvaz/MIRES/blob/main/MIRES%20components/MIRES_architecture.png?raw=true)
 
-
+For more information regarding MIRES please visit https://www.gsd.inesc-id.pt/~mpc/pubs/MIRES__Diogo_Vaz_.pdf
 
 ## Getting Started
 
