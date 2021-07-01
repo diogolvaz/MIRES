@@ -39,7 +39,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. Enable Email/Password authentication model on the Application Firebase project;
 4. Add the android application (```/Mobile Application example/Hify```) to the Application Firebase project;
 5. Copy file ```/MIRES components/Configuration/MIRESAccountKey.json``` to ```/Mobile Application example/Hify/functions```;
-6. Go to file ```/Mobile Application example/Hify/.firebaserc``` and change the default property with the Firebase Application project Id;
+6. Go to file ```/Mobile Application/Hify/.firebaserc``` and change the default property with the Firebase Application project Id;
 7. Change the Application Firebase project pricing plan to Blaze (pay-as-you-go);
 7. Got to folder ```/Mobile Application example/Hify``` and run ```firebase deploy --only functions``` to deploy the cloud functions;
 8. Now, you can start recovering the application! In the begginning, when recovering an action, some errors will appear "The query requires an index". Just copy the provided url and create the index on both;
@@ -50,7 +50,7 @@ Feel free to contact me if you have any question about the project!
 
 ### Executions supported
 
-The configuration of the application allows the following actions:
+The configuration of the Mobile Application example allows the following actions:
 
 - Administrator Recovery:
   - Recover the creation of users;
