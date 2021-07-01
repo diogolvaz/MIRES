@@ -44,7 +44,7 @@ These instructions will get you a copy of the project up and running on your loc
 7. Got to folder ```/Mobile Application/Hify``` and run ```firebase deploy --only functions``` to deploy the cloud functions;
 8. Now, you can start recovering the application! In the begginning, when recovering an action, some errors will appear "The query requires an index". Just copy the provided url and create the index on both;
 
-Feel free to contact me if you have any doubts about the project! 
+Feel free to contact me if you have any question about the project! 
 
 
 ### Executions supported
