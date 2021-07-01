@@ -46,25 +46,26 @@ These instructions will get you a copy of the project up and running on your loc
 
 Feel free to contact me if you have any question about the project! 
 
+#####################################################################
 
 ### Executions supported
 
 The configuration of the application allows the following actions:
 
-1. Administrator Recovery:
+- Administrator Recovery:
  - Recover the creation of users;
  - Recover login actions;
  - Recover the creation of text and image posts;
  - Recover the deletion of (only) text posts;
 
-2. User Recovery:
+- User Recovery:
  - Recover the creation of text and image posts;
  - Recover the deletion of (only) text posts;
 
-3. Snapshot Process:
+- Snapshot Process:
  - Applied to the Users collection, where logins create new version of the documents;
 
-4. Multi-service Recovery:
+- Multi-service Recovery:
  - Recover the creation of users;
  - Recover the creeation of image posts;
 
@@ -72,6 +73,8 @@ The configuration of the application allows the following actions:
 **FINAL NOTES:** 
 1. Firebase is constantly updating, meaning that, beyond the previous steps, other actions may be necessary.
 
+
+#####################################################################
 
 ### Built With
 
