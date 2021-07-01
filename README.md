@@ -73,7 +73,6 @@ The configuration of the application allows the following actions:
 
 **FINAL NOTES:** 
 1. Firebase is constantly updating, meaning that besides the previous steps, other actions may be necessary.
-2. Don't panic with the Blaze model. This pricing plan also offers free usage. (more info ate https://firebase.google.com/pricing) 
 
 
 ### Built With
