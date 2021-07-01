@@ -1,6 +1,6 @@
-**MIRES** (**M**obile Applications **I**ntrusion **RE**covery **S**ervice) is an intrusion recovery service for mobile applications that use Backend-as-a-Service, e.g., Google's [Firebase](https://firebase.google.com/). The MIRES recovery model is based on a two-phase process that aims to reconstruct the corrupted data concurrently to users’ interaction with the backend, by
-restoring the integrity of the systems’ state with a focus on maintaining the availability of the mobile application system. Besides the main intrusion recovery mechanism, MIRES also provides a user
-recovery mechanism that allows the application users to recover from mistakes.
+**MIRES** (**M**obile Applications **I**ntrusion **RE**covery **S**ervice) is an intrusion recovery service for mobile applications that use Backend-as-a-Service, e.g., Google's [Firebase](https://firebase.google.com/). The recovery is done online, mostly in parallel with the normal functioning of the application, to increase availability, on the contrary of what offline recovery mechanisms do. 
+\textcolor{black}{Moreover, although most applications still use a single backend data store (e.g., a database), many recent applications are starting to use more than one (e.g., a database and a file store), so MIRES supports multi-service recovery.} 
+Finally, MIRES supports a form of client-side recovery in the mobile device to allow users to recover from mistakes.
 
 ![alt text](https://github.com/inesc-id/MIRESPrototype/blob/master/MIRES%20service/MIRES_architecture.png?raw=true)
 
