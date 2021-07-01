@@ -42,7 +42,7 @@ These instructions will get you a copy of the project up and running on your loc
 6. Go to file ```/Mobile Application/Hify/.firebaserc``` and change the default property with the Firebase Application project Id;
 7. Change the Application Firebase project pricing plan to Blaze (pay-as-you-go);
 7. Got to folder ```/Mobile Application example/Hify``` and run ```firebase deploy --only functions``` to deploy the cloud functions;
-8. Now, you can start recovering the application! In the begginning, when recovering an action, some errors will appear "The query requires an index". Just copy the provided url and create the index on both;
+8. Now, you can start recovering the application! In the begginning, when recovering an action, some errors will appear "The query requires an index". Just copy the provided url and create the indexes;
 
 Feel free to contact me if you have any question about the project! 
 
