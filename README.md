@@ -65,7 +65,7 @@ The configuration of the Mobile Application example allows the following actions
 - Snapshot Process:
   - Applied to the Users collection, where logins create new version of the documents;
 
-- Multi-service Recovery:
+- Multi-Service Recovery:
   - Recover the creation of users;
   - Recover the creeation of image posts;
 
