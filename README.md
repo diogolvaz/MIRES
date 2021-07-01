@@ -31,8 +31,6 @@ These instructions will get you a copy of the project up and running on your loc
 8. Go to file ```/MIRES service/Configuration/initializeAdmins.js``` and update the APPadmin storageBucker property with the url of the APP Firebase storage;
 9. Finally you can run ```npm run start-admin-console``` to initiate the console and access the interface using the url ```http://localhost:4000``` (you can also run ```npm run start-user-recovery-module``` to start the Users Recovery module that will run on port 5000. However, this module does not have an interface);
 
-Now, lets add the application and start recoverying some actions!
-
 
 ### Start APP example
 
