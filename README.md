@@ -70,7 +70,7 @@ The configuration of the application allows the following actions:
 
 
 **FINAL NOTES:** 
-1. Firebase is constantly updating, meaning that besides the previous steps, other actions may be necessary.
+1. Firebase is constantly updating, meaning that, beyond the previous steps, other actions may be necessary.
 
 
 ### Built With
