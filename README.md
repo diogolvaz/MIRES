@@ -52,21 +52,21 @@ Feel free to contact me if you have any question about the project!
 The configuration of the application allows the following actions:
 
 1. Administrator Recovery:
-- Recover the creation of users;
-- Recover login actions;
-- Recover the creation of text and image posts;
-- Recover the deletion of (only) text posts;
+ - Recover the creation of users;
+ - Recover login actions;
+ - Recover the creation of text and image posts;
+ - Recover the deletion of (only) text posts;
 
 2. User Recovery:
-- Recover the creation of text and image posts;
-- Recover the deletion of (only) text posts;
+ - Recover the creation of text and image posts;
+ - Recover the deletion of (only) text posts;
 
 3. Snapshot Process:
-- Applied to the Users collection, where logins create new version of the documents;
+ - Applied to the Users collection, where logins create new version of the documents;
 
 4. Multi-service Recovery:
-- Recover the creation of users;
-- Recover the creeation of image posts;
+ - Recover the creation of users;
+ - Recover the creeation of image posts;
 
 
 **FINAL NOTES:** 
