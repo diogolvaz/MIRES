@@ -2,9 +2,8 @@
 Moreover, although most applications still use a single backend data store (e.g., a database), many recent applications are starting to use more than one (e.g., a database and a file store), so MIRES supports multi-service recovery.
 Finally, MIRES supports a form of client-side recovery in the mobile device to allow users to recover from mistakes.
 
-![alt text](https://github.com/inesc-id/MIRESPrototype/blob/master/MIRES%20service/MIRES_architecture.png?raw=true)
+![alt text](https://github.com/diogolvaz/MIRES/blob/master/MIRES%20service/MIRES_architecture.png?raw=true)
 
-For more information regarding MIRES please visit https://www.gsd.inesc-id.pt/~mpc/pubs/MIRES__Diogo_Vaz_.pdf
 
 
 ## Getting Started
