@@ -25,23 +25,23 @@ These instructions will get you a copy of the project up and running on your loc
 2. Initiate the Firestore database (europe-west2);
 3. Change the MIRES Firebase project pricing plan to Blaze (pay-as-you-go);
 4. Go to the root folder of MIRES (the folder that contains the package.json file) and run ```npm install``` to install the dependencies;
-5. Get the service account key from MIRES Project and save the file in ```MIRES service/Configuration``` with the name ```MIRESAccountKey``` (https://stackoverflow.com/questions/40799258/where-can-i-get-serviceaccountcredentials-json-for-firebase-admin);
+5. Get the service account key from MIRES Project and save the file in ```MIRES components/Configuration``` with the name ```MIRESAccountKey``` (https://stackoverflow.com/questions/40799258/where-can-i-get-serviceaccountcredentials-json-for-firebase-admin);
 6. Go to Firebase and create another Firebase project (this will be the Application container);
-7. Get the service account key from the Application project and save the file in ```MIRES service/Configuration``` with the name ```APPAccountKey```;
-8. Go to file ```/MIRES service/Configuration/initializeAdmins.js``` and update the APPadmin storageBucker property with the url of the Application Firebase storage;
+7. Get the service account key from the Application project and save the file in ```MIRES components/Configuration``` with the name ```APPAccountKey```;
+8. Go to file ```/MIRES components/Configuration/initializeAdmins.js``` and update the APPadmin storageBucker property with the url of the Application Firebase storage;
 9. Finally you can run ```npm run start-admin-console``` to initiate the console and access the interface using the url ```http://localhost:4000``` (you can also run ```npm run start-user-recovery-module``` to start the Users Recovery module that will run on port 5000. However, this module does not have an interface);
 
 
 ### Start Mobile Application
 
 1. Go to the Application Firebase project and create the Firestore database (europe-west2);
-2. Add the security rules on file ```/Application/SecurityRules/SecurityRules.txt``` to the Firestore Security Rules;
+2. Add the security rules on file ```/Mobile Application components/SecurityRules/SecurityRules.txt``` to the Firestore Security Rules;
 3. Enable Email/Password authentication model on the Application Firebase project;
-4. Add the android application (```/Mobile Application/Hify```) to the Application Firebase project;
-5. Copy file ```/MIRES service/Configuration/MIRESAccountKey.json``` to ```/Mobile Application/Hify/functions```;
+4. Add the android application (```/Mobile Application example/Hify```) to the Application Firebase project;
+5. Copy file ```/MIRES components/Configuration/MIRESAccountKey.json``` to ```/Mobile Application example/Hify/functions```;
 6. Go to file ```/Mobile Application/Hify/.firebaserc``` and change the default property with the Firebase Application project Id;
 7. Change the Application Firebase project pricing plan to Blaze (pay-as-you-go);
-7. Got to folder ```/Mobile Application/Hify``` and run ```firebase deploy --only functions``` to deploy the cloud functions;
+7. Got to folder ```/Mobile Application example/Hify``` and run ```firebase deploy --only functions``` to deploy the cloud functions;
 8. Now, you can start recovering the application! In the begginning, when recovering an action, some errors will appear "The query requires an index". Just copy the provided url and create the index on both;
 
 Feel free to contact me if you have any question about the project! 
