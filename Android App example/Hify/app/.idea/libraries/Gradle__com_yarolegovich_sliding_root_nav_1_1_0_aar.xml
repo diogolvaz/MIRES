@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yarolegovich:sliding-root-nav:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/7c99e04147dedb704d7ce5b50e23b34e/jetified-sliding-root-nav-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/7c99e04147dedb704d7ce5b50e23b34e/jetified-sliding-root-nav-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.yarolegovich/sliding-root-nav/1.1.0/dfb307ab954a04d0769d57d5d90ba85194457275/sliding-root-nav-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.yarolegovich/sliding-root-nav/1.1.0/3dc72c3ef4d9d50432dd599081c19555d1fddd7c/sliding-root-nav-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/3c7e4601c30727e735c9c7322e8e9e00/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d89f2c53e6a9a2d3518c79ac63b7420e/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/13011916459634b8af6cb4cec9049ec8/lifecycle-livedata-2.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/13011916459634b8af6cb4cec9049ec8/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/13011916459634b8af6cb4cec9049ec8/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

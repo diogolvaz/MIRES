@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.recyclerview:recyclerview:1.1.0-rc01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2006fd4c272a899120b26b455ae17508/recyclerview-1.1.0-rc01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/de251305e19d1fdb361187972dab7c9a/recyclerview-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2006fd4c272a899120b26b455ae17508/recyclerview-1.1.0-rc01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2006fd4c272a899120b26b455ae17508/recyclerview-1.1.0-rc01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2006fd4c272a899120b26b455ae17508/recyclerview-1.1.0-rc01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0-rc01/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-rc01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0-rc01/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-rc01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0-rc01/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-rc01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

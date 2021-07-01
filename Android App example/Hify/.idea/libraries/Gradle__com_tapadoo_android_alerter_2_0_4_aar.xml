@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tapadoo.android:alerter:2.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/432cf708eead2efca34103471083ab4d/jetified-alerter-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/432cf708eead2efca34103471083ab4d/jetified-alerter-2.0.4/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b51b44783538e84822be7173c2043250/jetified-alerter-2.0.4/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b51b44783538e84822be7173c2043250/jetified-alerter-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b51b44783538e84822be7173c2043250/jetified-alerter-2.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b51b44783538e84822be7173c2043250/jetified-alerter-2.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b51b44783538e84822be7173c2043250/jetified-alerter-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b51b44783538e84822be7173c2043250/jetified-alerter-2.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ff0425c13f1e80b7934cf905780fa45a/jetified-alerter-2.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ff0425c13f1e80b7934cf905780fa45a/jetified-alerter-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ff0425c13f1e80b7934cf905780fa45a/jetified-alerter-2.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.4/e8f58e0c982033f53afa3cce492795873984d65d/alerter-2.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.4/e8f58e0c982033f53afa3cce492795873984d65d/alerter-2.0.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.4/e8f58e0c982033f53afa3cce492795873984d65d/alerter-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.4/58d3dd70e667c12c8eba4fcf0d7c310fe96034b2/alerter-2.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.4/58d3dd70e667c12c8eba4fcf0d7c310fe96034b2/alerter-2.0.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tapadoo.android/alerter/2.0.4/58d3dd70e667c12c8eba4fcf0d7c310fe96034b2/alerter-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

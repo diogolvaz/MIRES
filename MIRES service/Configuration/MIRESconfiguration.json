@@ -1,0 +1,21 @@
+{
+    "MIRES_log":"LOG",
+    "MIRES_storage_log":"STORAGE",
+    "MIRES_users_tokens":"MIRES_USERS_TOKENS",
+    "MIRES_users_flags":"MIRES_USERS_FLAGS",
+    "MIRES_users_recovery":"MIRES_USERS_RECOVERY",
+
+    "MIRES_database_block":"MIRES_CONFIG",
+    "MIRES_doc_block":"Config",
+
+    "snapshot_flow":false,
+    "snapshot_versions":5,
+    "MIRES_snapshots":"SNAPSHOTS",
+
+    "ADMIN_MODULE_port":4000,
+    "USERS_MODULE_port":5000,
+    
+    "USERS_MODULE_unblock_time":30000,
+    
+    "FILE_RECOVERY":"true"
+}

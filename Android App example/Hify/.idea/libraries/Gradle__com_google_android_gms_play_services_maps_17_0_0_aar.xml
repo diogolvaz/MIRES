@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-maps:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b4a8953ebc400b6ef9a7c68df748d97a/jetified-play-services-maps-17.0.0/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b4a8953ebc400b6ef9a7c68df748d97a/jetified-play-services-maps-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b4a8953ebc400b6ef9a7c68df748d97a/jetified-play-services-maps-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b4a8953ebc400b6ef9a7c68df748d97a/jetified-play-services-maps-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b4a8953ebc400b6ef9a7c68df748d97a/jetified-play-services-maps-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b4a8953ebc400b6ef9a7c68df748d97a/jetified-play-services-maps-17.0.0/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1ddb8b4174c224f4c9b5e7dfce2cff9c/jetified-play-services-maps-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1ddb8b4174c224f4c9b5e7dfce2cff9c/jetified-play-services-maps-17.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1ddb8b4174c224f4c9b5e7dfce2cff9c/jetified-play-services-maps-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-maps/17.0.0/d997ae8f2b0b4a330bcafcba55f8af323c816562/play-services-maps-17.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-maps/17.0.0/d997ae8f2b0b4a330bcafcba55f8af323c816562/play-services-maps-17.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-maps/17.0.0/d997ae8f2b0b4a330bcafcba55f8af323c816562/play-services-maps-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

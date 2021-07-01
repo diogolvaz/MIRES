@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ivbaranov:materialfavoritebutton:0.1.4@aar">
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9ca72cf60ddb7128133c4f8d64a5872a/materialfavoritebutton-0.1.4/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9ca72cf60ddb7128133c4f8d64a5872a/materialfavoritebutton-0.1.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/367f2f551c4c0a6f9967617b1f602eaf353ee7f7/materialfavoritebutton-0.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/641e87970c401584bda2a486e7f3597befc45e93/materialfavoritebutton-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

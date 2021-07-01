@@ -1,0 +1,14 @@
+# Node modules #
+node_modules/
+
+# Environment variables #
+.env
+
+# Log data
+server/log/
+
+# Interface data
+public/
+
+# ignore vsCode #
+.vscode/

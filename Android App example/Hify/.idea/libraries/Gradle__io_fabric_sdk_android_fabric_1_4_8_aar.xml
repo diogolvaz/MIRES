@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: io.fabric.sdk.android:fabric:1.4.8@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/76d4fb1c3d3796d3502597a143eb0bf1/fabric-1.4.8/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/90b3c7b8afcb2f35ac5580cfdaa100e8/jetified-fabric-1.4.8/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/07ae7d0b188fa20bf1610b116397b074/jetified-fabric-1.4.8/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/07ae7d0b188fa20bf1610b116397b074/jetified-fabric-1.4.8/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/07ae7d0b188fa20bf1610b116397b074/jetified-fabric-1.4.8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.fabric.sdk.android/fabric/1.4.8/7505c9ffbcdcbe7b5a2ece542b108779071d5cf9/fabric-1.4.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.fabric.sdk.android/fabric/1.4.8/7505c9ffbcdcbe7b5a2ece542b108779071d5cf9/fabric-1.4.8-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.fabric.sdk.android/fabric/1.4.8/7505c9ffbcdcbe7b5a2ece542b108779071d5cf9/fabric-1.4.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

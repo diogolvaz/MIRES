@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ivbaranov:materialfavoritebutton:0.1.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bebb0b71b24f05667a6bac19458459ab/jetified-materialfavoritebutton-0.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bebb0b71b24f05667a6bac19458459ab/jetified-materialfavoritebutton-0.1.4/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bebb0b71b24f05667a6bac19458459ab/jetified-materialfavoritebutton-0.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bebb0b71b24f05667a6bac19458459ab/jetified-materialfavoritebutton-0.1.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bebb0b71b24f05667a6bac19458459ab/jetified-materialfavoritebutton-0.1.4/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bebb0b71b24f05667a6bac19458459ab/jetified-materialfavoritebutton-0.1.4/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/4f88d92c30a965dfcdbe6acc384adf9b/jetified-materialfavoritebutton-0.1.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/4f88d92c30a965dfcdbe6acc384adf9b/jetified-materialfavoritebutton-0.1.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/4f88d92c30a965dfcdbe6acc384adf9b/jetified-materialfavoritebutton-0.1.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/367f2f551c4c0a6f9967617b1f602eaf353ee7f7/materialfavoritebutton-0.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/367f2f551c4c0a6f9967617b1f602eaf353ee7f7/materialfavoritebutton-0.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/367f2f551c4c0a6f9967617b1f602eaf353ee7f7/materialfavoritebutton-0.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/641e87970c401584bda2a486e7f3597befc45e93/materialfavoritebutton-0.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/641e87970c401584bda2a486e7f3597befc45e93/materialfavoritebutton-0.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.ivbaranov/materialfavoritebutton/0.1.4/641e87970c401584bda2a486e7f3597befc45e93/materialfavoritebutton-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

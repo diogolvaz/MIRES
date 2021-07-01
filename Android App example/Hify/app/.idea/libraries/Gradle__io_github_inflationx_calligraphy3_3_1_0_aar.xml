@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.inflationx:calligraphy3:3.1.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/3687fdbe2697a27c29fe692f2b1ed416/calligraphy3-3.1.0/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/3687fdbe2697a27c29fe692f2b1ed416/calligraphy3-3.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/calligraphy3/3.1.0/98735d01e64d413f6cc9349e6ee2ba6e9772457f/calligraphy3-3.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/calligraphy3/3.1.0/4fe0e24d58436557f37b1c3c0295d62bf564faa8/calligraphy3-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

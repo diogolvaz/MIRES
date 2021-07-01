@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:aboutlibraries:6.2.3@aar">
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5cfd6bbeeda36daf3b56280d64e82a51/jetified-aboutlibraries-6.2.3/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5cfd6bbeeda36daf3b56280d64e82a51/jetified-aboutlibraries-6.2.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/c045403fe2ea5568cf209fbb0f0bc46deff913be/aboutlibraries-6.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/df20ffbebff613eeef98f5c2fae9f8a2716ec869/aboutlibraries-6.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

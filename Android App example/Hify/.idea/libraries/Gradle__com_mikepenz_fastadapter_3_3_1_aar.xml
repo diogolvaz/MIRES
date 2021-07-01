@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter:3.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6786ed687f968cb82ea5e6d9f161f326/jetified-fastadapter-3.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6786ed687f968cb82ea5e6d9f161f326/jetified-fastadapter-3.3.1/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d46aca65fd11de8752aa3780a87cb3fb/jetified-fastadapter-3.3.1/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d46aca65fd11de8752aa3780a87cb3fb/jetified-fastadapter-3.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d46aca65fd11de8752aa3780a87cb3fb/jetified-fastadapter-3.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d46aca65fd11de8752aa3780a87cb3fb/jetified-fastadapter-3.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d46aca65fd11de8752aa3780a87cb3fb/jetified-fastadapter-3.3.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d46aca65fd11de8752aa3780a87cb3fb/jetified-fastadapter-3.3.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/da2a1c365cdfe035bea88fb8f196dc8c/jetified-fastadapter-3.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/da2a1c365cdfe035bea88fb8f196dc8c/jetified-fastadapter-3.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/da2a1c365cdfe035bea88fb8f196dc8c/jetified-fastadapter-3.3.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.3.1/c518078e10c87b03b31eef5e87838d21daf8a50e/fastadapter-3.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.3.1/c518078e10c87b03b31eef5e87838d21daf8a50e/fastadapter-3.3.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.3.1/c518078e10c87b03b31eef5e87838d21daf8a50e/fastadapter-3.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.3.1/e63ad59107a5fc67debd7d8248cc188fd25c1e9f/fastadapter-3.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.3.1/e63ad59107a5fc67debd7d8248cc188fd25c1e9f/fastadapter-3.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/fastadapter/3.3.1/e63ad59107a5fc67debd7d8248cc188fd25c1e9f/fastadapter-3.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

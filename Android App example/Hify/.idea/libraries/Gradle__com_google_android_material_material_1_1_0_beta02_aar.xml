@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.material:material:1.1.0-beta02@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/60eee9d8faa7fb25ab4d238b32a53fd1/material-1.1.0-beta02/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ca8f286d58434e58ec6b6b787070a9dc/material-1.1.0-beta02/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/60eee9d8faa7fb25ab4d238b32a53fd1/material-1.1.0-beta02/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/60eee9d8faa7fb25ab4d238b32a53fd1/material-1.1.0-beta02/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/60eee9d8faa7fb25ab4d238b32a53fd1/material-1.1.0-beta02/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0-beta02/2753b944498275cbc2b8d2b0bb7c7d325a543e71/material-1.1.0-beta02-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0-beta02/2753b944498275cbc2b8d2b0bb7c7d325a543e71/material-1.1.0-beta02-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.google.android.material/material/1.1.0-beta02/2753b944498275cbc2b8d2b0bb7c7d325a543e71/material-1.1.0-beta02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

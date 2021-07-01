@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tbuonomo.andrui:viewpagerdotsindicator:2.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5d71006f84acede91995b94bd19fae69/jetified-viewpagerdotsindicator-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5d71006f84acede91995b94bd19fae69/jetified-viewpagerdotsindicator-2.1.2/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b0f027f27fdb62f482a20e36d6dcac12/jetified-viewpagerdotsindicator-2.1.2/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b0f027f27fdb62f482a20e36d6dcac12/jetified-viewpagerdotsindicator-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b0f027f27fdb62f482a20e36d6dcac12/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b0f027f27fdb62f482a20e36d6dcac12/jetified-viewpagerdotsindicator-2.1.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b0f027f27fdb62f482a20e36d6dcac12/jetified-viewpagerdotsindicator-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b0f027f27fdb62f482a20e36d6dcac12/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bbbc3da970e94e313d7fdd060782880c/jetified-viewpagerdotsindicator-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bbbc3da970e94e313d7fdd060782880c/jetified-viewpagerdotsindicator-2.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/bbbc3da970e94e313d7fdd060782880c/jetified-viewpagerdotsindicator-2.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.1.2/f94045bf9f7ba2c1cd58d1291ee9b9945fdec2cd/viewpagerdotsindicator-2.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.1.2/f94045bf9f7ba2c1cd58d1291ee9b9945fdec2cd/viewpagerdotsindicator-2.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.1.2/f94045bf9f7ba2c1cd58d1291ee9b9945fdec2cd/viewpagerdotsindicator-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.1.2/e7c1b944e9bc0a438d1a1408eaef6899ec26f4cf/viewpagerdotsindicator-2.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.1.2/e7c1b944e9bc0a438d1a1408eaef6899ec26f4cf/viewpagerdotsindicator-2.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.tbuonomo.andrui/viewpagerdotsindicator/2.1.2/e7c1b944e9bc0a438d1a1408eaef6899ec26f4cf/viewpagerdotsindicator-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

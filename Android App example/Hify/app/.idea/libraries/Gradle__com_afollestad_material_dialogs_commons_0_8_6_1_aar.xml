@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:commons:0.8.6.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f2e05ce13921cf88f5fb86aafb4ffc1e/jetified-commons-0.8.6.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f2e05ce13921cf88f5fb86aafb4ffc1e/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f2e05ce13921cf88f5fb86aafb4ffc1e/jetified-commons-0.8.6.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/f6278d0cdcaf1ece28ea90ffcb10e3146acea560/commons-0.8.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/7adfe249b56f70051e0d9ce520203956f929f699/commons-0.8.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

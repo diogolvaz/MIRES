@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.inflationx:viewpump:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/33cc6235d72ea022f366f6f38f9827d4/jetified-viewpump-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/33cc6235d72ea022f366f6f38f9827d4/jetified-viewpump-1.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/viewpump/1.0.0/fe743087fd8d3a07aa5415927ee554ff961589c9/viewpump-1.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/viewpump/1.0.0/ba088381f37e63ac07dd99618aac4942ab235ba2/viewpump-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

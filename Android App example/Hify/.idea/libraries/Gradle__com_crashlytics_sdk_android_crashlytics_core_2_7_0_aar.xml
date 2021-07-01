@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.crashlytics.sdk.android:crashlytics-core:2.7.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1f5e224d21db77ae333d537d01814ce6/crashlytics-core-2.7.0/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/ec9b5840f6a4d3f876253bde5421c61b/jetified-crashlytics-core-2.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e61cbd1a101f82977ba05ce897ed7a3/jetified-crashlytics-core-2.7.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e61cbd1a101f82977ba05ce897ed7a3/jetified-crashlytics-core-2.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e61cbd1a101f82977ba05ce897ed7a3/jetified-crashlytics-core-2.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.crashlytics.sdk.android/crashlytics-core/2.7.0/502ddb750f36e4c1fe8fca5c64c17ae233ac27db/crashlytics-core-2.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.crashlytics.sdk.android/crashlytics-core/2.7.0/502ddb750f36e4c1fe8fca5c64c17ae233ac27db/crashlytics-core-2.7.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.crashlytics.sdk.android/crashlytics-core/2.7.0/502ddb750f36e4c1fe8fca5c64c17ae233ac27db/crashlytics-core-2.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

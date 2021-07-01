@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: info.androidhive:imagefilters:1.0.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e17e551815d50ceaedb66391397ea722/jetified-imagefilters-1.0.7/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e17e551815d50ceaedb66391397ea722/jetified-imagefilters-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e17e551815d50ceaedb66391397ea722/jetified-imagefilters-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e17e551815d50ceaedb66391397ea722/jetified-imagefilters-1.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e17e551815d50ceaedb66391397ea722/jetified-imagefilters-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e17e551815d50ceaedb66391397ea722/jetified-imagefilters-1.0.7/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/04cf338bd75af5bfb69b666622562f7f/jetified-imagefilters-1.0.7/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/04cf338bd75af5bfb69b666622562f7f/jetified-imagefilters-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/04cf338bd75af5bfb69b666622562f7f/jetified-imagefilters-1.0.7/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/info.androidhive/imagefilters/1.0.7/bf35d324679e1737f03e4a4304e9627a3afe5e9b/imagefilters-1.0.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/info.androidhive/imagefilters/1.0.7/bf35d324679e1737f03e4a4304e9627a3afe5e9b/imagefilters-1.0.7-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/info.androidhive/imagefilters/1.0.7/bf35d324679e1737f03e4a4304e9627a3afe5e9b/imagefilters-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/info.androidhive/imagefilters/1.0.7/217b606a4dfb78b1da346fa16b5a8e1fd3a99ede/imagefilters-1.0.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/info.androidhive/imagefilters/1.0.7/217b606a4dfb78b1da346fa16b5a8e1fd3a99ede/imagefilters-1.0.7-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/info.androidhive/imagefilters/1.0.7/217b606a4dfb78b1da346fa16b5a8e1fd3a99ede/imagefilters-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

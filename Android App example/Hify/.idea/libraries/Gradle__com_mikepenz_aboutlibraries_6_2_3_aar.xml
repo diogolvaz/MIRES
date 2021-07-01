@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:aboutlibraries:6.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e331cd1f4d0aeacfa24fb762f4bd924/jetified-aboutlibraries-6.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e331cd1f4d0aeacfa24fb762f4bd924/jetified-aboutlibraries-6.2.3/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9dae8b4371c60cc09d9fd6bfc8827f8a/jetified-aboutlibraries-6.2.3/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9dae8b4371c60cc09d9fd6bfc8827f8a/jetified-aboutlibraries-6.2.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9dae8b4371c60cc09d9fd6bfc8827f8a/jetified-aboutlibraries-6.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9dae8b4371c60cc09d9fd6bfc8827f8a/jetified-aboutlibraries-6.2.3/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9dae8b4371c60cc09d9fd6bfc8827f8a/jetified-aboutlibraries-6.2.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/9dae8b4371c60cc09d9fd6bfc8827f8a/jetified-aboutlibraries-6.2.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/7e3d7c1a56c02383d727095411fc92c2/jetified-aboutlibraries-6.2.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/7e3d7c1a56c02383d727095411fc92c2/jetified-aboutlibraries-6.2.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/7e3d7c1a56c02383d727095411fc92c2/jetified-aboutlibraries-6.2.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/c045403fe2ea5568cf209fbb0f0bc46deff913be/aboutlibraries-6.2.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/c045403fe2ea5568cf209fbb0f0bc46deff913be/aboutlibraries-6.2.3-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/c045403fe2ea5568cf209fbb0f0bc46deff913be/aboutlibraries-6.2.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/df20ffbebff613eeef98f5c2fae9f8a2716ec869/aboutlibraries-6.2.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/df20ffbebff613eeef98f5c2fae9f8a2716ec869/aboutlibraries-6.2.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/aboutlibraries/6.2.3/df20ffbebff613eeef98f5c2fae9f8a2716ec869/aboutlibraries-6.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

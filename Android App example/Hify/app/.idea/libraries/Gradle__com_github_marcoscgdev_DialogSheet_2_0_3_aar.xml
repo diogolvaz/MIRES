@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.marcoscgdev:DialogSheet:2.0.3@aar">
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/794dcc5edc336e8555ffd9939451017e/jetified-DialogSheet-2.0.3/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/794dcc5edc336e8555ffd9939451017e/jetified-DialogSheet-2.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.marcoscgdev/DialogSheet/2.0.3/53f7080097fbb819b14dd74f4ca34a61133d409b/DialogSheet-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

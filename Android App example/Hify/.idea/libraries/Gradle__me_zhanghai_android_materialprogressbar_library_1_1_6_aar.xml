@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhanghai.android.materialprogressbar:library:1.1.6@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6f962d6b2a5b26dc7bcfc92b8ce1e1b5/jetified-library-1.1.6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fadfcc23e8ca7b6a282b6749c7cd4a4a/jetified-library-1.1.6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6f962d6b2a5b26dc7bcfc92b8ce1e1b5/jetified-library-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6f962d6b2a5b26dc7bcfc92b8ce1e1b5/jetified-library-1.1.6/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6504dcbe549975facdce08c11d48e341/jetified-library-1.1.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fadfcc23e8ca7b6a282b6749c7cd4a4a/jetified-library-1.1.6/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fadfcc23e8ca7b6a282b6749c7cd4a4a/jetified-library-1.1.6/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fadfcc23e8ca7b6a282b6749c7cd4a4a/jetified-library-1.1.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/7c024a02997743079606505bbb53096f0030b588/library-1.1.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/7c024a02997743079606505bbb53096f0030b588/library-1.1.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/7c024a02997743079606505bbb53096f0030b588/library-1.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/1ffa10dd0da4c7c996580ab9dead169338b6e3c1/library-1.1.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/1ffa10dd0da4c7c996580ab9dead169338b6e3c1/library-1.1.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.1.6/1ffa10dd0da4c7c996580ab9dead169338b6e3c1/library-1.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

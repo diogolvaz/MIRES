@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.afollestad.material-dialogs:commons:0.8.6.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e829374577540e3a66f25f16a47f8c4c/jetified-commons-0.8.6.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/67337d7fcd90e6e42e9e76836cef91fa/jetified-commons-0.8.6.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e829374577540e3a66f25f16a47f8c4c/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/e829374577540e3a66f25f16a47f8c4c/jetified-commons-0.8.6.1/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/524244721f593d2cb5956905754eda6c/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/67337d7fcd90e6e42e9e76836cef91fa/jetified-commons-0.8.6.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/67337d7fcd90e6e42e9e76836cef91fa/jetified-commons-0.8.6.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/67337d7fcd90e6e42e9e76836cef91fa/jetified-commons-0.8.6.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/f6278d0cdcaf1ece28ea90ffcb10e3146acea560/commons-0.8.6.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/f6278d0cdcaf1ece28ea90ffcb10e3146acea560/commons-0.8.6.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/f6278d0cdcaf1ece28ea90ffcb10e3146acea560/commons-0.8.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/7adfe249b56f70051e0d9ce520203956f929f699/commons-0.8.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/7adfe249b56f70051e0d9ce520203956f929f699/commons-0.8.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.8.6.1/7adfe249b56f70051e0d9ce520203956f929f699/commons-0.8.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

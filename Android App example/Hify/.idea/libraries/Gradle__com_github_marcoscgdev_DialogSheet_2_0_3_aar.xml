@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.marcoscgdev:DialogSheet:2.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f640b518e955b7295bd34de428cf552e/jetified-DialogSheet-2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f640b518e955b7295bd34de428cf552e/jetified-DialogSheet-2.0.3/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5854c210041604724e13d909d35babb6/jetified-DialogSheet-2.0.3/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5854c210041604724e13d909d35babb6/jetified-DialogSheet-2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5854c210041604724e13d909d35babb6/jetified-DialogSheet-2.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5854c210041604724e13d909d35babb6/jetified-DialogSheet-2.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5854c210041604724e13d909d35babb6/jetified-DialogSheet-2.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5854c210041604724e13d909d35babb6/jetified-DialogSheet-2.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6042ff8dded61d3fdab8fe9d68860678/jetified-DialogSheet-2.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6042ff8dded61d3fdab8fe9d68860678/jetified-DialogSheet-2.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/6042ff8dded61d3fdab8fe9d68860678/jetified-DialogSheet-2.0.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.marcoscgdev/DialogSheet/2.0.3/53f7080097fbb819b14dd74f4ca34a61133d409b/DialogSheet-2.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.marcoscgdev/DialogSheet/2.0.3/53f7080097fbb819b14dd74f4ca34a61133d409b/DialogSheet-2.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.marcoscgdev/DialogSheet/2.0.3/53f7080097fbb819b14dd74f4ca34a61133d409b/DialogSheet-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

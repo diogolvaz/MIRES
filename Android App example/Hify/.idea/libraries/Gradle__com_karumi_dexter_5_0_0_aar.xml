@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.karumi:dexter:5.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/020fbf6c6a0e2c0cd8bf7bb4a8d3c2d8/jetified-dexter-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/020fbf6c6a0e2c0cd8bf7bb4a8d3c2d8/jetified-dexter-5.0.0/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/63aa496b82eafd381d293ee183100421/jetified-dexter-5.0.0/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/63aa496b82eafd381d293ee183100421/jetified-dexter-5.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/63aa496b82eafd381d293ee183100421/jetified-dexter-5.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/63aa496b82eafd381d293ee183100421/jetified-dexter-5.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/63aa496b82eafd381d293ee183100421/jetified-dexter-5.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/63aa496b82eafd381d293ee183100421/jetified-dexter-5.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/0da60f4093b5ca2ddef3a2a58ae03dcc/jetified-dexter-5.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/0da60f4093b5ca2ddef3a2a58ae03dcc/jetified-dexter-5.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/0da60f4093b5ca2ddef3a2a58ae03dcc/jetified-dexter-5.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/49b366b0d65dde2fdd0b9dffc2cba3e0e875caac/dexter-5.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/49b366b0d65dde2fdd0b9dffc2cba3e0e875caac/dexter-5.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/49b366b0d65dde2fdd0b9dffc2cba3e0e875caac/dexter-5.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/c2d1f7314d3761008b381eb349bba66d8dcc3018/dexter-5.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/c2d1f7314d3761008b381eb349bba66d8dcc3018/dexter-5.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.karumi/dexter/5.0.0/c2d1f7314d3761008b381eb349bba66d8dcc3018/dexter-5.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.smart-fun:XmlToJson:1.4.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b18e502f90fe4cebc93cc433308ad4bb/jetified-XmlToJson-1.4.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/b18e502f90fe4cebc93cc433308ad4bb/jetified-XmlToJson-1.4.4/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/5b97a30e63d0b04e536cc59359cdf5c8/jetified-XmlToJson-1.4.4/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/8532e7586d639b4b5a82eb33f86f0b1d/jetified-XmlToJson-1.4.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/8532e7586d639b4b5a82eb33f86f0b1d/jetified-XmlToJson-1.4.4/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/8532e7586d639b4b5a82eb33f86f0b1d/jetified-XmlToJson-1.4.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/8532e7586d639b4b5a82eb33f86f0b1d/jetified-XmlToJson-1.4.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/8532e7586d639b4b5a82eb33f86f0b1d/jetified-XmlToJson-1.4.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/8532e7586d639b4b5a82eb33f86f0b1d/jetified-XmlToJson-1.4.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/794d22527feaa324a13af44aad7a4111/jetified-XmlToJson-1.4.4/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/0f3b8712081829b372645b63e1612431/jetified-XmlToJson-1.4.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/0f3b8712081829b372645b63e1612431/jetified-XmlToJson-1.4.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/0f3b8712081829b372645b63e1612431/jetified-XmlToJson-1.4.4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.smart-fun/XmlToJson/1.4.4/b306dcf6dfa581340e53807c21421683bdea91ec/XmlToJson-1.4.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.smart-fun/XmlToJson/1.4.4/b306dcf6dfa581340e53807c21421683bdea91ec/XmlToJson-1.4.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.github.smart-fun/XmlToJson/1.4.4/b306dcf6dfa581340e53807c21421683bdea91ec/XmlToJson-1.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:iconics-core:3.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a15e23ad76e8bae50487e2913f619e43/iconics-core-3.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a15e23ad76e8bae50487e2913f619e43/iconics-core-3.2.0/jars/classes.jar!/" />
+      <root url="file://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a15e23ad76e8bae50487e2913f619e43/iconics-core-3.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/f89baafca8e72eb3c1da7fe0ff7f5420358f6e55/iconics-core-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/e2ad2f94a29f8c507a048f50348c9155ce5b6e1e/iconics-core-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

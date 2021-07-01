@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:iconics-core:3.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f4ed2821bb10a1dd47eb1caa5cad84c2/jetified-iconics-core-3.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/1050e5f18fc38c4286479800eff9349f/jetified-iconics-core-3.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f4ed2821bb10a1dd47eb1caa5cad84c2/jetified-iconics-core-3.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f4ed2821bb10a1dd47eb1caa5cad84c2/jetified-iconics-core-3.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/f4ed2821bb10a1dd47eb1caa5cad84c2/jetified-iconics-core-3.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/f89baafca8e72eb3c1da7fe0ff7f5420358f6e55/iconics-core-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/f89baafca8e72eb3c1da7fe0ff7f5420358f6e55/iconics-core-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/f89baafca8e72eb3c1da7fe0ff7f5420358f6e55/iconics-core-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/e2ad2f94a29f8c507a048f50348c9155ce5b6e1e/iconics-core-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/e2ad2f94a29f8c507a048f50348c9155ce5b6e1e/iconics-core-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.mikepenz/iconics-core/3.2.0/e2ad2f94a29f8c507a048f50348c9155ce5b6e1e/iconics-core-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

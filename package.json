@@ -1,0 +1,25 @@
+{
+  "name": "mires",
+  "version": "1.0.0",
+  "description": "Intrusion Recovery Service for mobile applications that use cloud backends, more precisely, Google's Firebase.",
+  "author": "Diogo Lopes Vaz",
+  "license": "ISC",
+  "scripts": {
+    "start-admin-console": "node MIRES\\ service/AdminRecovery/Server/AdminConsoleModule.js",
+    "start-user-recovery-module": "node MIRES\\ service/UsersRecovery/Server/UsersRecoveryModule.js"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^5.8.1",
+    "async-mutex": "^0.1.4",
+    "body-parser": "^1.19.0",
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.3.0",
+    "node-worker-threads-pool": "^1.2.2",
+    "sleep": "^6.1.0",
+    "socket.io": "^2.4.1"
+  },
+  "devDependencies": {
+    "press-any-key": "^0.1.1"
+  }
+}

@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.airbnb.android:lottie:2.5.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d37bd79774744b3c16fbb876a14fb1ee/jetified-lottie-2.5.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a9f683c97e118b26c1f79110a27e064b/jetified-lottie-2.5.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d37bd79774744b3c16fbb876a14fb1ee/jetified-lottie-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/d37bd79774744b3c16fbb876a14fb1ee/jetified-lottie-2.5.1/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/dc7cab679b698ca290ffea2ae24afc11/jetified-lottie-2.5.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a9f683c97e118b26c1f79110a27e064b/jetified-lottie-2.5.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a9f683c97e118b26c1f79110a27e064b/jetified-lottie-2.5.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/a9f683c97e118b26c1f79110a27e064b/jetified-lottie-2.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.5.1/921184ce75585c38442176c39bf1affb7dd6b4ad/lottie-2.5.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.5.1/921184ce75585c38442176c39bf1affb7dd6b4ad/lottie-2.5.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.5.1/921184ce75585c38442176c39bf1affb7dd6b4ad/lottie-2.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.5.1/e594f8c0cbfe55d6606202357f6534a1da4ce569/lottie-2.5.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.5.1/e594f8c0cbfe55d6606202357f6534a1da4ce569/lottie-2.5.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.airbnb.android/lottie/2.5.1/e594f8c0cbfe55d6606202357f6534a1da4ce569/lottie-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

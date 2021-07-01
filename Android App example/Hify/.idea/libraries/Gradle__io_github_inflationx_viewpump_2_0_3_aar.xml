@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.inflationx:viewpump:2.0.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fc269033108b514334802aac75f797ac/jetified-viewpump-2.0.3/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fc269033108b514334802aac75f797ac/jetified-viewpump-2.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fc269033108b514334802aac75f797ac/jetified-viewpump-2.0.3/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fc269033108b514334802aac75f797ac/jetified-viewpump-2.0.3/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fc269033108b514334802aac75f797ac/jetified-viewpump-2.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/fc269033108b514334802aac75f797ac/jetified-viewpump-2.0.3/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e271b4161835cc9a476c735aa8c7838/jetified-viewpump-2.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e271b4161835cc9a476c735aa8c7838/jetified-viewpump-2.0.3/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2e271b4161835cc9a476c735aa8c7838/jetified-viewpump-2.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/viewpump/2.0.3/c604e675bc873c8a1189c0d1e18728906cba7596/viewpump-2.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/viewpump/2.0.3/c604e675bc873c8a1189c0d1e18728906cba7596/viewpump-2.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/io.github.inflationx/viewpump/2.0.3/c604e675bc873c8a1189c0d1e18728906cba7596/viewpump-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

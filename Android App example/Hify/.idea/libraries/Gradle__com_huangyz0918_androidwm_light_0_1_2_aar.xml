@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huangyz0918:androidwm-light:0.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/31ba8dd08aacfd4e20dcf452f342d25c/jetified-androidwm-light-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/31ba8dd08aacfd4e20dcf452f342d25c/jetified-androidwm-light-0.1.2/res" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/c63a6c0bd3ec8c30869d9f6f2149e1af/jetified-androidwm-light-0.1.2/res" />
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/c63a6c0bd3ec8c30869d9f6f2149e1af/jetified-androidwm-light-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/c63a6c0bd3ec8c30869d9f6f2149e1af/jetified-androidwm-light-0.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/c63a6c0bd3ec8c30869d9f6f2149e1af/jetified-androidwm-light-0.1.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/c63a6c0bd3ec8c30869d9f6f2149e1af/jetified-androidwm-light-0.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/c63a6c0bd3ec8c30869d9f6f2149e1af/jetified-androidwm-light-0.1.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2dbcf5996f53f4f8c164beb9b5266109/jetified-androidwm-light-0.1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2dbcf5996f53f4f8c164beb9b5266109/jetified-androidwm-light-0.1.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/transforms-2/files-2.1/2dbcf5996f53f4f8c164beb9b5266109/jetified-androidwm-light-0.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.huangyz0918/androidwm-light/0.1.2/b7c2ee2e3063e9970269b1f167b2eed19d626063/androidwm-light-0.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.huangyz0918/androidwm-light/0.1.2/b7c2ee2e3063e9970269b1f167b2eed19d626063/androidwm-light-0.1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.huangyz0918/androidwm-light/0.1.2/b7c2ee2e3063e9970269b1f167b2eed19d626063/androidwm-light-0.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.huangyz0918/androidwm-light/0.1.2/b264140f08dc31b709dddecbe35bd81c0d788de2/androidwm-light-0.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.huangyz0918/androidwm-light/0.1.2/b264140f08dc31b709dddecbe35bd81c0d788de2/androidwm-light-0.1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Programas/Graddle/gradle-5.2.1-all/gradle-5.2.1/caches/modules-2/files-2.1/com.huangyz0918/androidwm-light/0.1.2/b264140f08dc31b709dddecbe35bd81c0d788de2/androidwm-light-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
