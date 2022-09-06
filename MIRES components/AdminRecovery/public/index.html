@@ -1,0 +1,170 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Learn how to use the Firebase platform on the Web">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MIRES Admin Console</title>
+
+  <!-- Disable tap highlight on IE -->
+  <meta name="msapplication-tap-highlight" content="no">
+
+
+  <!-- App Styling -->
+  <link rel="stylesheet" href="css/css.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+ 
+
+  <!-- App Script -->
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="script/script.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<main>
+  
+<!-- Header section containing logo -->
+<div class="header" >
+  <h2 id="header_title">MIRES Admin Console</h3>
+</div>
+
+
+  <!-- Transactions Log -->
+  <div id="transactions_div" class="col-5">
+    <table class="table col-12">
+      <thead id="transactions_table_header" onclick="refreshLog()" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1.0">
+        <tr class="d-flex">
+          <th class="text-center col-6">Transaction ID</th>
+          <th class="text-center col-6">User ID</th>
+        </tr>
+      </thead>
+    </table>
+    <div id="table_scroll">
+    <table id="transactions_div_content" class="table col-12">
+      <tbody id="transactions_table_content"></tbody>
+    </table>
+    </div>
+  </div>
+
+  <!-- Operations Log -->
+  <div id="operations_div" class="col-6">
+    <table class="table col-12" >
+      <thead id="operations_table_header">
+        <tr class="d-flex">
+          <th  class=" text-center col-5">Operation ID</th>
+          <th  class=" text-center col-4">Timestamp</th>
+          <th  class=" text-center col-3">Type</th>
+        </tr>
+      </thead>
+    </table>
+    <div id="table_scroll">
+    <table id="operations_div_content" class="table col-12" >
+      <tbody id="operations_table_content">
+      </tbody>
+    </table>
+    </div>
+  </div>
+
+  <!-- Recovery -->
+  <div class="modal" id="recovery_modal" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title" id="recovery_modal_title"></h4>
+          <button id="recovery_modal_header_button" type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div id="recovery_modal_data" class="form-control">
+        </div>
+        <div id="recovery_modal_footer" class="modal-footer">
+        </div>
+      </div>
+    </div>
+  </div>
+
+   <!-- Operations Info -->
+   <div class="modal" id="operations_info_modal" role="dialog">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div id="operation_info_header" class="modal-header">
+          <!--h5 id="operation_info_title">INFO</h5-->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div id="operation_data" class="form-control">
+          <h3 class="text-center">WRITE</h3>
+          <h5>Path: </h5>
+          <div id="operation_document_path"></div>
+          <h5>Data: </h5>
+          <div id="operation_data_content"></div>
+          <p></p>
+          <div id="operation_data_reads">
+          </div>
+          <div id="operation_data_images">
+          </div>
+        </div>
+        <div id="operations_info_footer" class="modal-footer">
+        </div>
+      </div>
+    </div>
+  </div>
+
+   <!-- Users ID -->
+   <div class="modal" id="usersIds_info_modal" role="dialog">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div id="users_tokens_info_header" class="modal-header">
+          <h4 class="modal-title" id="users_tokens_info_title">Select users</h4>
+          <button type="button" class="close" data-dismiss="modal" onclick="clearUsersIdsList()">&times;</button>
+        </div>
+        <div id="usersIds_data" class="form-control">
+            <div id="table_scroll_usersIds_modal">
+            <table id="userdIds_div_content" class="table">
+              <tbody id="userdIds_table_content">
+              </tbody>
+            </table>
+            </div>
+        </div>
+        <div id="users_tokens_info_footer" class="modal-footer">
+          <button id="send_message"  type="button" onclick="defineRecoveryMessage()"> Next </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <!-- Recovery Notification -->
+    <div class="modal" id="recovery_notification_modal" role="dialog">
+      <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="recovery_notification_modal_title"></h4>
+            <button id="recovery_notification_modal_header_button" type="button" class="close" data-dismiss="modal" onclick="clearUsersIdsList()">&times;</button>
+          </div>
+          <div id="recovery_notification_modal_data" class="form-control">
+          </div>
+          <div id="recovery_notification_modal_footer" class="modal-footer">
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <!-- Recovery -->
+  <div id="main_loader">
+    <div id="main_loader_content"> 
+     <div id="main_loader_spinner" class="spinner-border"></div>
+     <div id="main_loader_message"></div>
+    </div>
+  </div>
+
+
+  <!-- Information circle button with ripple effect -->
+  <button id="recover_button"  type="button" onclick='startRecovery()' onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1.0">Recover</button>
+
+  <!-- Information circle button with ripple effect -->
+  <button id="notifications_button"  type="button" onclick='sendMessage()' onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1.0">Send Message</button>
+
+  </main>
+</body>
+</html>

@@ -7,8 +7,5 @@ node_modules/
 # Log data
 server/log/
 
-# Interface data
-public/
-
 # ignore vsCode #
 .vscode/
